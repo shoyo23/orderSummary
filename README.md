@@ -8,6 +8,6 @@ This was a challenge design given by frontendmentor.io and I did it with the hel
 
 [Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
 
-**To do this challenge, you need a basic understanding of HTML and CSS.**
+
 
 
